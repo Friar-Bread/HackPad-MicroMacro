@@ -11,6 +11,8 @@ Eventually I want to add midi functionality to work as a controller for a dm7 so
 
 I also want to add light up functionality for things like caps lock and animations but for now I wanted less distractions from the main design
 
+I'm not a programmer but i tried :D
+
 BOM:
 - 4x Cherry MX Switches
 - 12x SK6812 MINI LEDs
@@ -22,10 +24,10 @@ BOM:
 - 1x Printed Lid
 
 CAD: done in onshape
-![alt text](CAD_Image.png)
+![CAD_Image](CAD_Image.png)
 
 Schematic: KiCAD
-![alt text](Schematic_Image.png)
+![Schematic_Image](Schematic_Image.png)
 
 PCB: KiCAD
-![alt text](PCB_Image.png)
+![PCB_Image](PCB_Image.png)
