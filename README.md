@@ -22,10 +22,10 @@ BOM:
 - 1x Printed Lid
 
 CAD: done in onshape
-![alt text](image.png)
+![alt text](CAD_Image.png)
 
 Schematic: KiCAD
-![alt text](image-1.png)
+![alt text](Schematic_Image.png)
 
 PCB: KiCAD
-![alt text](image-2.png)
+![alt text](PCB_Image.png)
